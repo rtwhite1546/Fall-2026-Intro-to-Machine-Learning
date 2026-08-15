@@ -1,6 +1,6 @@
 # Fall 2026 Introduction to Machine Learning
 
-Course notebooks are organized by instructional week. Each notebook contains the material for the scheduled lectures in that week. Lecture materials marked **Coming soon** will be added before the corresponding class meeting.
+Course notebooks are organized by instructional week. Each notebook contains the material for the scheduled lectures in that week.
 
 | Week | Lecture | Date | Topic | Materials |
 |---:|---:|:---|:---|:---|
@@ -14,7 +14,7 @@ Course notebooks are organized by instructional week. Each notebook contains the
 | 4 | 8 | Sep 10 | Classification and Bayes | [Week 4](Week-04-Probability-and-Bayes/Week-04.ipynb) |
 | 5 | 9 | Sep 15 | Logistic Regression | [Week 5](Week-05-Logistic-Regression-LDA-QDA/Week-05.ipynb) |
 | 5 | 10 | Sep 17 | LDA and QDA | [Week 5](Week-05-Logistic-Regression-LDA-QDA/Week-05.ipynb) |
-| 6 | 11 | Sep 22 | Support Vector Machines | **Coming soon** |
+| 6 | 11 | Sep 22 | Support Vector Machines | [Week 6](Week-06-SVM-and-Nearest-Neighbors/Week-06.ipynb) |
 | 6 | 12 | Sep 24 | Nearest Neighbors | [Week 6](Week-06-SVM-and-Nearest-Neighbors/Week-06.ipynb) |
 | 7 | 13 | Sep 29 | Regularization, Ridge and LASSO Regression, and Cross-Validation | [Week 7](Week-07-Regularization-and-Decision-Trees/Week-07.ipynb) |
 | 7 | 14 | Oct 1 | Decision Tree Classifiers | [Week 7](Week-07-Regularization-and-Decision-Trees/Week-07.ipynb) |
@@ -25,7 +25,7 @@ Course notebooks are organized by instructional week. Each notebook contains the
 | 10 | — | Oct 20 | Project Presentations | — |
 | 10 | — | Oct 22 | Project Presentations | — |
 | 11 | 18 | Oct 27 | Gradient Boosting and XGBoost | [Week 11](Week-11-Gradient-Boosting-and-Review/Week-11.ipynb) |
-| 11 | 19 | Oct 29 | Supervised Learning Review and Model Selection | **Coming soon** |
+| 11 | 19 | Oct 29 | Supervised Learning Review | No new code |
 | 12 | — | Nov 3 | Exam | — |
 | 12 | 20 | Nov 5 | Principal Component Analysis | [Week 12](Week-12-PCA/Week-12.ipynb) |
 | 13 | 21 | Nov 10 | Data Visualization: MDS, Graphviz, and t-SNE | [Week 13](Week-13-Data-Visualization-and-Clustering/Week-13.ipynb) |
@@ -34,5 +34,3 @@ Course notebooks are organized by instructional week. Each notebook contains the
 | 14 | 24 | Nov 19 | Density-Based Clustering: DBSCAN and OPTICS | [Week 14](Week-14-Gaussian-Mixtures-and-Density-Clustering/Week-14.ipynb) |
 | 15 | 25 | Nov 24 | Density-Based Clustering: DENCLUE | [Week 15](Week-15-DENCLUE/Week-15.ipynb) |
 | 15 | — | Nov 26 | Thanksgiving — no class | — |
-| 16 | 26 | Dec 1 | Anomaly Detection | **Coming soon** |
-| 16 | — | Dec 3 | Guest Speaker | — |
