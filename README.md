@@ -31,8 +31,8 @@ Course notebooks are organized by instructional week. Each notebook contains the
 | 13 | 21 | Nov 10 | Data Visualization: MDS, Graphviz, and t-SNE | [Week 13](Week-13-Data-Visualization-and-Clustering/Week-13.ipynb) |
 | 13 | 22 | Nov 12 | Clustering and Expectation-Maximization | [Week 13](Week-13-Data-Visualization-and-Clustering/Week-13.ipynb) |
 | 14 | 23 | Nov 17 | Gaussian Mixture and Hierarchical Clustering | [Week 14](Week-14-Gaussian-Mixtures-and-Density-Clustering/Week-14.ipynb) |
-| 14 | 24 | Nov 19 | Density-Based Clustering: DBSCAN and OPTICS | **Coming soon** |
-| 15 | 25 | Nov 24 | Density-Based Clustering: DENCLUE | **Coming soon** |
+| 14 | 24 | Nov 19 | Density-Based Clustering: DBSCAN and OPTICS | [Week 14](Week-14-Gaussian-Mixtures-and-Density-Clustering/Week-14.ipynb) |
+| 15 | 25 | Nov 24 | Density-Based Clustering: DENCLUE | [Week 15](Week-15-DENCLUE/Week-15.ipynb) |
 | 15 | — | Nov 26 | Thanksgiving — no class | — |
 | 16 | 26 | Dec 1 | Anomaly Detection | **Coming soon** |
 | 16 | — | Dec 3 | Guest Speaker | — |
